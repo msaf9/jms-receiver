@@ -5,3 +5,8 @@
 
 ### Frameworks
 - Spring
+
+### Dependencies 
+- ActiveMQ
+- Spring Security
+- Spring Boot
