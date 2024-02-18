@@ -24,8 +24,8 @@ This Spring Boot application works as a JMS Receiver which waits and consumes th
 ## Installation
 ### Get repository
 ```git
-git clone https://github.com/msaf9/JmsReceiver.git
-cd JmsReceiver
+git clone https://github.com/msaf9/jms-receiver.git
+cd jms-receiver
 ```
 
 ## License
