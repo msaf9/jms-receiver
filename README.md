@@ -1,9 +1,11 @@
-# JMS Receiver
+<h1>JMS Receiver</h1>
 Spring Boot application with JMS.
+
+<h2>Table of contents</h2>
 
 - [JMS Receiver](#jms-receiver)
   - [Introduction](#introduction)
-  - [Technologies](#technologies)
+  - [Technology Stack](#technology-stack)
   - [Project status](#project-status)
   - [Installation](#installation)
     - [Get repository](#get-repository)
@@ -12,7 +14,7 @@ Spring Boot application with JMS.
 ## Introduction
 This Spring Boot application works as a JMS Receiver which waits and consumes the message from JMS Sender.
 
-## Technologies
+## Technology Stack
 - Spring
 - ActiveMQ
 - Spring Security
